@@ -1,0 +1,23 @@
+{
+  "name": "annabella",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/natashiaromanzini/annabella.git"
+  },
+  "keywords": [
+    "annabella",
+    "modelo"
+  ],
+  "author": "Natashia Romanzini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natashiaromanzini/annabella/issues"
+  },
+  "homepage": "https://github.com/natashiaromanzini/annabella#readme"
+}
